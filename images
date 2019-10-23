@@ -20,3 +20,4 @@ quay.io/prometheus/node-exporter:v0.18.1=quay.azk8s.cn/prometheus/node-exporter:
 quay.io/jetstack/cert-manager-controller:v0.11.0=quay.azk8s.cn/jetstack/cert-manager-controller:v0.11.0
 quay.io/jetstack/cert-manager-cainjector:v0.11.0=quay.azk8s.cn/jetstack/cert-manager-cainjector:v0.11.0
 quay.io/jetstack/cert-manager-webhook:v0.11.0=quay.azk8s.cn/jetstack/cert-manager-webhook:v0.11.0
+quay.io/jetstack/cert-manager-acmesolver:v0.11.0=quay.azk8s.cn/jetstack/cert-manager-acmesolver:v0.11.0
