@@ -7,6 +7,7 @@ quay.io/openebs/openebs-k8s-provisioner:1.2.0=quay.azk8s.cn/openebs/openebs-k8s-
 quay.io/openebs/cstor-pool:1.2.0=quay.azk8s.cn/openebs/cstor-pool:1.2.0
 quay.io/openebs/cstor-pool-mgmt:1.2.0=quay.azk8s.cn/openebs/cstor-pool-mgmt:1.2.0
 quay.io/openebs/cstor-volume-mgmt:1.2.0=quay.azk8s.cn/openebs/cstor-volume-mgmt:1.2.0
+quay.io/openebs/cstor-istgt:1.2.0=quay.azk8s.cn/openebs/cstor-istgt:1.2.0
 quay.io/openebs/m-exporter:1.2.0=quay.azk8s.cn/openebs/m-exporter:1.2.0
 quay.io/openebs/snapshot-controller:1.2.0=quay.azk8s.cn/openebs/snapshot-controller:1.2.0
 quay.io/openebs/snapshot-provisioner:1.2.0=quay.azk8s.cn/openebs/snapshot-provisioner:1.2.0
